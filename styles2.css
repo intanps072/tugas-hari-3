@@ -1,0 +1,80 @@
+body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+        background-color: #4CAF50; /* hijau */
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 30px;
+}
+
+header .logo {
+        font-weight: bold;
+}
+
+header nav ul {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+}
+
+header nav ul li a {
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+}
+
+/* Profil */
+.profile {
+        display: flex;
+        align-items: center;
+        padding: 40px 30px;
+        background-color: #f2f2f2;
+}
+
+.photo {
+        width: 150px;
+        height: 200px;
+        background-color: #ddd; /* placeholder untuk foto */
+        margin-right: 30px;
+}
+
+.profile .bio h2 {
+        margin-bottom: 10px;
+}
+
+.profile .bio p {
+        font-size: 14px;
+        color: #333;
+}
+
+/* Kontak */
+.contact {
+        padding: 30px;
+        background-color: #fff;
+}
+
+.contact h3 {
+        margin-bottom: 15px;
+}
+
+.contact p {
+        margin: 5px 0;
+        font-size: 14px;
+}
+
+/* Footer */
+footer {
+        text-align: center;
+        padding: 15px;
+        background-color: #333;
+        color: white;
+        font-size: 13px;
+}

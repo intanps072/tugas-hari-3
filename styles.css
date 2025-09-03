@@ -1,10 +1,30 @@
 body {
-            font-family: 'Courier New';
+        font-family: 'Courier New';
+        font-size: 20px;
+        font-variant: small-caps;
+        font-style: italic;
         }
-        h1 {
-            color: blueviolet;
+
+h1 {
+        color: rgb(199, 154, 241);
         }
-        p {
-            line-height: 1.6em;
-            color: rgb(14, 14, 13);
+h3 {
+        text-decoration: none;
         }
+
+p {
+        line-height: 1.6em;
+        color: rgb(255, 255, 255);
+    
+        }
+a {
+        text-decoration: none;
+        color: #ffffff;
+        }
+        .navigasi li {
+            display: inline;
+        }
+        .navigasi{
+            text-align: right;
+        }
+
