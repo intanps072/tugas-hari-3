@@ -2,7 +2,7 @@ body {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: Arial, sans-serif;
+        font-family: 'Courier New', Courier, monospace;
 }
 
 /* Header */
@@ -42,7 +42,7 @@ header nav ul li a {
 .photo {
         width: 150px;
         height: 200px;
-        background-color: #ddd; /* placeholder untuk foto */
+        background-color: #ddd;
         margin-right: 30px;
 }
 
