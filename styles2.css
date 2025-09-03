@@ -7,7 +7,7 @@ body {
 
 /* Header */
 header {
-        background-color: #4CAF50; /* hijau */
+        background-color: #c47be0; /* hijau */
         color: white;
         display: flex;
         justify-content: space-between;
@@ -51,8 +51,9 @@ header nav ul li a {
 }
 
 .profile .bio p {
-        font-size: 14px;
+        font-size: 18px;
         color: #333;
+        text-align: justify;
 }
 
 /* Kontak */
