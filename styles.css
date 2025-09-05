@@ -8,6 +8,7 @@ body {
 
 /* Header */
 header {
+        width: 1350px;
         background-color: #c47be0; 
         color: white;
         display: flex;
@@ -15,6 +16,7 @@ header {
         align-items: center;
         padding: 15px 30px;
 }
+
 
 header .logo {
         font-weight: bold;
@@ -70,6 +72,7 @@ header nav ul li a {
 
 /* Footer */
 footer {
+        width: 1350px;
         text-align: center;
         padding: 15px;
         background-color: #c47be0; 
