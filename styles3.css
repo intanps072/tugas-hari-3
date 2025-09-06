@@ -6,7 +6,7 @@ body {
 }
 
 header {
-        background-color: #c47be0; /* hijau */
+        background-color: #c47be0;
         color: white;
         display: flex;
         justify-content: space-between;
