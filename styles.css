@@ -8,7 +8,7 @@ body {
 
 /* Header */
 header {
-        width: 1350px;
+        width: auto;
         background-color: #c47be0; 
         color: white;
         display: flex;
@@ -72,7 +72,7 @@ header nav ul li a {
 
 /* Footer */
 footer {
-        width: 1350px;
+        width: auto;
         text-align: center;
         padding: 15px;
         background-color: #c47be0; 
